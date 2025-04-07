@@ -1,0 +1,12 @@
+<!-- 📁 project/
+├── index.html
+├── programmewise_student_list.html
+├── student_registration.html
+├── feedback.html
+├── css/
+│   ├── index.css
+│   ├── programmewise_student_list.css
+│   ├── student_registration.css
+│   └── feedback.css
+└── js/
+    └── main.js
